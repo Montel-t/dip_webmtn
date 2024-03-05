@@ -1,7 +1,7 @@
 <div class="toplink">
-        <a href="./">Home</a>
+        <a href="index.php">Home</a>
         <a href="">About</a>
-        <a href="project.php">Our ProjectS</a>
+        <a href="project.php">Our Projects</a>
         <a href="">Our Blog</a>
         <a href="products.php">Our Products</a>
         <div class="toplink_right">
